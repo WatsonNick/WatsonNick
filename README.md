@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nicolas!</h1>
 <h3 align="center">Computer Science Student and AI Enthusiast from Indonesia</h3>
-
-- Hi, I'm a final-year Computer Science student at Universitas Gadjah Mada (UGM) with a deep interest in the fields of Deep Learning, Reinforcement Learning, and Generative AI. With strong foundations in Machine Learning and proficiency in Python, I have hands-on experience building models using frameworks such as TensorFlow and Keras to develop models like CNNs, YOLO, and many more. I always enjoy learning new things and motivating myself to grow. I consistently seek opportunities to refine my skills and make meaningful contributions to the tech industry and its environment.
+Hi, I'm a final-year Computer Science student at Universitas Gadjah Mada (UGM) with a deep interest in the fields of Deep Learning, Reinforcement Learning, and Generative AI. With strong foundations in Machine Learning and proficiency in Python, I have hands-on experience building models using frameworks such as TensorFlow and Keras to develop models like CNNs, YOLO, and many more. I always enjoy learning new things and motivating myself to grow. I consistently seek opportunities to refine my skills and make meaningful contributions to the tech industry and its environment.
 
 - 👨‍💻 All of my portfolio are available at [https://s.id/PortfolioNicolasHardjoleksono](https://s.id/PortfolioNicolasHardjoleksono)
 
